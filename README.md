@@ -59,7 +59,7 @@ This script is used to remove the services , the rm command was used for the rem
 
 The list command uses the tree command to list all the services which the user-created an interesting observation was the fact that the tree command was not available in mac terminal and therefore had to be installed using homebrew hence I was able to learn homebrew for installation of UNIX packages without worrying about dependencies.
 
-    P.sh and V.sh
+<li>P.sh and V.sh</li>
     
 These are the two files used to maintain semaphore the p.sh is from the modified script from os practical 5. At times I have used p and v to lock sections beyond the critical section. The one drawback to this practice is that in case the script needs to be stopped in between the lock file is not removed and a deadlock situation might arise. 
 
