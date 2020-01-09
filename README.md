@@ -1,8 +1,8 @@
 # Bash-password-manager
-A general password manager application to understand bash
+A general password manager application to understand bash.
 Users will be able to store and retrieve passwords via a command-line interface (CLI), with front end made of a client that passes commands to a server to retrieve or edit information
 
-This document contains information regarding the architecture of the program, implementation, challenges faced, concepts used, possible bugs and additional implementations for the program.
+This document contains information regarding the architecture of the program, implementation, challenges faced, concepts used,syncronization issue faced, possible bugs and additional implementations for the program.
 
 <h3>Architecture</h3>
 The password manager consists of 3 blocks.
